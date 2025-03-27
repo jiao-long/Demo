@@ -3,7 +3,7 @@
 
   <groupId>com.zhangqi</groupId>
   <artifactId>maven-javademo</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>maven-javademo</name>
@@ -56,6 +56,6 @@
     <connection>scm:git:https://github.com/jiao-long/Demo.git</connection>
     <developerConnection>scm:git:https://github.com/jiao-long/Demo.git</developerConnection>
     <url>https://github.com/jiao-long/Demo</url>
-    <tag>v1.0-release</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
