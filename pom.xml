@@ -47,7 +47,7 @@
           <preparationGoals>clean verify</preparationGoals> <!-- 准备阶段执行的 Maven 目标 -->
           <tagNameFormat>v@{project.version}-release</tagNameFormat> <!-- 标签名的格式 -->
           <autoVersionSubmodules>true</autoVersionSubmodules> <!-- 自动更新子模块的版本号 -->
-          <pushChanges>false</pushChanges> <!-- 是否自动推送变更到远程仓库 -->
+          <pushChanges>true</pushChanges> <!-- 是否自动推送变更到远程仓库 -->
         </configuration>
       </plugin>
     </plugins>
