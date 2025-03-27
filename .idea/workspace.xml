@@ -4,67 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca42e5c5-0ed5-4981-ada9-bbacc9251837" name="更改" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/AsPectA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/AsPectB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhangqi/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangqi/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangqi/GreenTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangqi/HelloWorldTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhangqi/Redhahaha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/AsPectA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/AsPectB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/Green.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhangqi/Red.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/AsPectA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/AsPectB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/Green.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/zhangqi/Red.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2025-03-27T11-12-20_146.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2025-03-27T12-00-10_966.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.GreenTestCase.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.HelloWorldTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.HelloWorldTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.Redhahaha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zhangqi.TestRed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.GreenTestCase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.HelloWorldTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.HelloWorldTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.Redhahaha.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.zhangqi.TestRed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zhangqi/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zhangqi/GreenTestCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zhangqi/HelloWorldTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zhangqi/Redhahaha.class" afterDir="false" />
+    <list default="true" id="ca42e5c5-0ed5-4981-ada9-bbacc9251837" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +24,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="liuzhangqi &lt;2622492932@qq.com&gt;" />
         <option value="2622491932@qq.com" />
         <option value="liuzhangqi" />
         <option value="jiao-long" />
@@ -160,8 +103,25 @@
       <workItem from="1740557828975" duration="16337000" />
       <workItem from="1741833967954" duration="1544000" />
       <workItem from="1741835549392" duration="3189000" />
-      <workItem from="1743042947851" duration="6362000" />
+      <workItem from="1743042947851" duration="7747000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1743062206316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743062206316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1743062295294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743062295294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,8 +139,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
